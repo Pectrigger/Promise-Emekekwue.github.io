@@ -6,7 +6,7 @@ My name is Emekekwue Chukwunonso Promise, I'm skilled and dedicated Database Adm
 
 Skills: PostgreSQl / SQL-Server / Oracle / MYSQL / Graphic Designer
 
-- 🔭 I’m currently working on FiberOne Broadband 
+- 🔭 I’m currently working with FiberOne Broadband 
 - 🌱 I’m currently learning Cybersecurity and Ethical Hacking 
 - 📫 How to reach me: +2348030822070 
 

@@ -1,0 +1,2 @@
+select * from V$SQL_PLAN_MONITOR
+  order by FIRST_REFRESH_TIME desc

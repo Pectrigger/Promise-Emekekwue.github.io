@@ -16,7 +16,51 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
 
 - 🔭 I’m currently working with FiberOne Broadband 
 - 🌱 I’m currently learning Cybersecurity and Ethical Hacking 
-- 📫 How to reach me: +2348030822070 
+- 📫 How to reach me: +2348030822070
+
+## Examples of my Work
+
+<a href="https://drive.google.com/file/d/1FNZFn7hRYIC6w5H6VESk8f2xHEx09NHU/view?usp=drive_link">
+    <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/03/How-to-Install-PostgreSQL.jpg" alt="Installing and Configuring PostgreSQL" width="200" height="150">
+</a>
+
+
+Installing and Configuring Postgres: <img src="https://github.com/Pectrigger/PostgreSQL-Projects/blob/main/INSTALLING%20AND%20CONFIGURING%20POSTGRESQL%20AT%20UBUNTU.docx" width="200" />
+
+
+POSTGRES CLUSTER & REPLICATION: <img src="https://github.com/Pectrigger/PostgreSQL-Projects/blob/main/POSTGRES%20CLUSTER%20%26%20REPLICATION.docx" width="100" />
+
+PostgreSQL Backrest & Replication: <img src="https://github.com/Pectrigger/PostgreSQL-Projects/blob/main/POSTGRESQL%20BACKREST%20%26%20RESTORE.docx" width="100" />
+
+POSTGRESQL_MIGRATION_&_UPGRADE: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/POSTGRESQL_MIGRATION_%26_UPGRADE%5B1%5D.docx" width="100" />
+
+POSTGRESQL_TDE_INSTALL_&_ENCRYPTION: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/POSTGRES_CLUSTER_%26_REPLICATION%5B1%5D.docx" width="100" />
+
+MYSQL Install, Replication, Back up & Restore:: <img src="https://github.com/Pectrigger/MYSQL/blob/main/ALL%20ABOUT%20MYSQL.docx" width="100" />
+
+How to Fix Access Denied For user Root : <img src="https://github.com/Pectrigger/MYSQL/blob/main/How%20to%20Fix%20%20access%20denied%20for%20user%20_root_%40_localhost_%20using%20password%20YES.txt
+" width="100" />
+
+Create SQL Server Database Encryption: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/CREATE%20SQL%20SERVER%20DATABASE%20%20ENCRYPTION.txt" width="100" />
+
+Restore Encrypted DB on a new SQLServer: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/Restore%20Encrypted%20DB%20on%20a%20new%20SQLSERVER.txt" width="100" />
+
+SQL Server Maintenance Check : <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/SQL%20Maintenance%20Check.docx" width="100" />
+
+Installation of Oracle 19c in Linux: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/INSTALLATION%20OF%20ORACLE%2019C%20IN%20ORACLE%20LINUX.pdf" width="100" />
+
+Oracle Upgrade and Failover: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/Oracle%20UPGRADE%20%26%20FAILOVER.docx
+" width="100" />
+
+Oracle not Replicating: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/Oracle%20NOT%20REPLICATING%20SOLUTION.docx" width="100" />
+
+Oracle Monitoring Running Activity: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/OracleMONITOR%20RUNNING%20ACTIVITY%20ON%20ORACLE.txt" width="100" />
+
+
+
+
+
+<img src="paste ur url" width="100" />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pectrigger)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chukwunonso-emekekwue-479754152//)  

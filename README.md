@@ -20,7 +20,7 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
 
 ## Examples of my Work
 
-<a href="https://drive.google.com/file/d/1FNZFn7hRYIC6w5H6VESk8f2xHEx09NHU/view?usp=drive_link">
+<a href="https://github.com/Pectrigger/PSQL/blob/main/INSTALLING%20AND%20CONFIGURING%20POSTGRESQL%20AT%20UBUNTU.docx.pdf">
     <img src="https://i.postimg.cc/x8KVpBYz/Postgre-SQL-Install-and-configure.jpg" alt="Installing and Configuring PostgreSQL" width="200" height="150">
 </a>
 

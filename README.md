@@ -21,7 +21,7 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
 ## Examples of my Work
 
 <a href="https://drive.google.com/file/d/1FNZFn7hRYIC6w5H6VESk8f2xHEx09NHU/view?usp=drive_link">
-    <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/03/How-to-Install-PostgreSQL.jpg" alt="Installing and Configuring PostgreSQL" width="200" height="150">
+    <img src="https://i.postimg.cc/x8KVpBYz/Postgre-SQL-Install-and-configure.jpg" alt="Installing and Configuring PostgreSQL" width="200" height="150">
 </a>
 
 

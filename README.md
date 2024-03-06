@@ -41,12 +41,13 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
 <a href="https://github.com/Pectrigger/PSQL/blob/8b06a77f7e33756caa98f0cd08584ae9ab5abf4e/POSTGRESQL%20TDE%20INSTALL%20%26%20ENCRYPTION.pdf">Postgresql TDE</a>
 
 #### MYSQL
-
 <a href="https://github.com/Pectrigger/MYSQL/blob/3787b24876c6c2e4def6a43d7bece920001c262b/MYSQL%20Install%2C%20Config%2C%20Replication%2C%20Backup%2C%20Restore%20and%20other.pdf">
     <img src="https://i.postimg.cc/FspjkZJr/MYSQL-Install-Replicate-Backup-Retore.jpgq" width="200" height="150">
 </a>
 
 #### SQL-SERVER
+<a href="https://github.com/Pectrigger/SQL-SERVER/blob/main/CREATE%20SQL%20SERVER%20DATABASE%20%20ENCRYPTION.txt">How to fix Access Denial for User</a>
+
 <a href="https://github.com/Pectrigger/SQL-SERVER/blob/fe321073b19a999c5b66fffe09ad8f3d75bf284c/How%20to%20Fix%20%20access%20denied%20for%20user%20_root_%40_localhost_%20using%20password%20YES.txt">How to fix Access Denial for User</a>
 
 <a href="https://github.com/Pectrigger/SQL-SERVER/blob/fe321073b19a999c5b66fffe09ad8f3d75bf284c/Restore%20Encrypted%20DB%20on%20a%20new%20SQLSERVER.txt">Restore Encrypted DB on a new SQLServer</a>
@@ -57,10 +58,6 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
 
 
 
-
-Restore Encrypted DB on a new SQLServer: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/Restore%20Encrypted%20DB%20on%20a%20new%20SQLSERVER.txt" width="100" />
-
-SQL Server Maintenance Check : <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/SQL%20Maintenance%20Check.docx" width="100" />
 
 Installation of Oracle 19c in Linux: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/INSTALLATION%20OF%20ORACLE%2019C%20IN%20ORACLE%20LINUX.pdf" width="100" />
 

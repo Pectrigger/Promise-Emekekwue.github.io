@@ -19,7 +19,6 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
 - 📫 How to reach me: +2348030822070
 
 ## Examples of my Work
-
 #### PSQL
 <a href="https://github.com/Pectrigger/PSQL/blob/main/INSTALLING%20AND%20CONFIGURING%20POSTGRESQL%20AT%20UBUNTU.docx.pdf">
     <img src="https://i.postimg.cc/x8KVpBYz/Postgre-SQL-Install-and-configure.jpg" alt="Installing and Configuring PostgreSQL" width="200" height="150">
@@ -40,6 +39,22 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
 
 <a href="https://github.com/Pectrigger/PSQL/blob/8b06a77f7e33756caa98f0cd08584ae9ab5abf4e/POSTGRESQL%20TDE%20INSTALL%20%26%20ENCRYPTION.pdf">Postgresql TDE</a>
 
+#### ORACLE
+<a href="https://github.com/Pectrigger/ORACLE/blob/main/INSTALLATION%20OF%20ORACLE%2019C%20IN%20ORACLE%20LINUX%20(1).pdf">
+    <img src="https://i.postimg.cc/ydTJynNd/Installation-of-Oraxcle-19c.jpg" width="200" height="150">
+</a>
+
+<a href="https://github.com/Pectrigger/ORACLE/blob/main/DATABASE%20NOT%20REPLICATING%20SOLUTION%20.pdf">
+    <img src="https://i.postimg.cc/V6ssmwYf/Oracle-not-Replicating.jpg" width="200" height="150">
+</a>
+
+<a href="https://github.com/Pectrigger/ORACLE/blob/main/DB%20APP%20UPGRADE%20%26%20Database%20FAILOVER.pdf">
+    <img src="https://i.postimg.cc/wBjTdHx6/Oracle-Upgarde-and-Failover.jpg" width="200" height="150">
+</a>
+
+<a href="https://github.com/Pectrigger/ORACLE/blob/main/GENERATE%20AWR%20REPORT%20.pdf">Genearte AWR report</a>
+
+
 #### MYSQL
 <a href="https://github.com/Pectrigger/MYSQL/blob/3787b24876c6c2e4def6a43d7bece920001c262b/MYSQL%20Install%2C%20Config%2C%20Replication%2C%20Backup%2C%20Restore%20and%20other.pdf">
     <img src="https://i.postimg.cc/FspjkZJr/MYSQL-Install-Replicate-Backup-Retore.jpgq" width="200" height="150">
@@ -53,22 +68,6 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
 <a href="https://github.com/Pectrigger/SQL-SERVER/blob/fe321073b19a999c5b66fffe09ad8f3d75bf284c/Restore%20Encrypted%20DB%20on%20a%20new%20SQLSERVER.txt">Restore Encrypted DB on a new SQLServer</a>
 
 <a href="https://github.com/Pectrigger/SQL-SERVER/blob/main/Transfer%20logins%20and%20passwords%20between%20instances%20of%20SQL%20Server.txt">Transfer login and passwords between instances of SQL Server</a>
-
-
-
-
-
-
-Installation of Oracle 19c in Linux: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/INSTALLATION%20OF%20ORACLE%2019C%20IN%20ORACLE%20LINUX.pdf" width="100" />
-
-Oracle Upgrade and Failover: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/Oracle%20UPGRADE%20%26%20FAILOVER.docx
-" width="100" />
-
-Oracle not Replicating: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/Oracle%20NOT%20REPLICATING%20SOLUTION.docx" width="100" />
-
-Oracle Monitoring Running Activity: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/OracleMONITOR%20RUNNING%20ACTIVITY%20ON%20ORACLE.txt" width="100" />
-
-
 
 
 

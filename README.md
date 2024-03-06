@@ -32,8 +32,14 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
     <img src="https://i.postimg.cc/SKgyhBBF/Postgre-SQL-Migration-Upgrade.jpg" width="200" height="150">
 </a>
 
+<a href="">
+    <img src="https://i.postimg.cc/SKgyhBBF/Postgre-SQL-Migration-Upgrade.jpg" width="200" height="150">
+</a>
 
-PostgreSQL Backrest & Replication: <img src="https://github.com/Pectrigger/PostgreSQL-Projects/blob/main/POSTGRESQL%20BACKREST%20%26%20RESTORE.docx" width="100" />
+
+<a href="https://github.com/Pectrigger/PSQL/blob/8b06a77f7e33756caa98f0cd08584ae9ab5abf4e/POSTGRESQL%20TDE%20INSTALL%20%26%20ENCRYPTION.pdf">Postgresql TDE</a>
+
+
 
 POSTGRESQL_MIGRATION_&_UPGRADE: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/POSTGRESQL_MIGRATION_%26_UPGRADE%5B1%5D.docx" width="100" />
 

@@ -28,8 +28,10 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
     <img src="https://i.postimg.cc/cHWfpnG5/Postgre-SQL-Cluster-Replication.jpgL" width="200" height="150">
 </a>
 
+<a href="https://github.com/Pectrigger/PSQL/blob/8b06a77f7e33756caa98f0cd08584ae9ab5abf4e/POSTGRESQL%20MIGRATION%20%26%20UPGRADE.pdf">
+    <img src="https://github.com/Pectrigger/PSQL/blob/8b06a77f7e33756caa98f0cd08584ae9ab5abf4e/POSTGRESQL%20MIGRATION%20%26%20UPGRADE.pdf" width="200" height="150">
+</a>
 
-POSTGRES CLUSTER & REPLICATION: <img src="https://github.com/Pectrigger/PostgreSQL-Projects/blob/main/POSTGRES%20CLUSTER%20%26%20REPLICATION.docx" width="100" />
 
 PostgreSQL Backrest & Replication: <img src="https://github.com/Pectrigger/PostgreSQL-Projects/blob/main/POSTGRESQL%20BACKREST%20%26%20RESTORE.docx" width="100" />
 

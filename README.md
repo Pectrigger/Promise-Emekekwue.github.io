@@ -29,7 +29,7 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
 </a>
 
 <a href="https://github.com/Pectrigger/PSQL/blob/8b06a77f7e33756caa98f0cd08584ae9ab5abf4e/POSTGRESQL%20MIGRATION%20%26%20UPGRADE.pdf">
-    <img src="https://github.com/Pectrigger/PSQL/blob/8b06a77f7e33756caa98f0cd08584ae9ab5abf4e/POSTGRESQL%20MIGRATION%20%26%20UPGRADE.pdf" width="200" height="150">
+    <img src="https://i.postimg.cc/SKgyhBBF/Postgre-SQL-Migration-Upgrade.jpg" width="200" height="150">
 </a>
 
 

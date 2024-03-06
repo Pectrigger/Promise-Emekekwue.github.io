@@ -20,6 +20,7 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
 
 ## Examples of my Work
 
+#### PSQL
 <a href="https://github.com/Pectrigger/PSQL/blob/main/INSTALLING%20AND%20CONFIGURING%20POSTGRESQL%20AT%20UBUNTU.docx.pdf">
     <img src="https://i.postimg.cc/x8KVpBYz/Postgre-SQL-Install-and-configure.jpg" alt="Installing and Configuring PostgreSQL" width="200" height="150">
 </a>
@@ -39,19 +40,23 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
 
 <a href="https://github.com/Pectrigger/PSQL/blob/8b06a77f7e33756caa98f0cd08584ae9ab5abf4e/POSTGRESQL%20TDE%20INSTALL%20%26%20ENCRYPTION.pdf">Postgresql TDE</a>
 
-### MYSQL
-MYSQL Install, Replication, Back up & Restore:: <img src="https://github.com/Pectrigger/MYSQL/blob/main/ALL%20ABOUT%20MYSQL.docx" width="100" />
-
+#### MYSQL
 
 <a href="https://github.com/Pectrigger/MYSQL/blob/3787b24876c6c2e4def6a43d7bece920001c262b/MYSQL%20Install%2C%20Config%2C%20Replication%2C%20Backup%2C%20Restore%20and%20other.pdf">
     <img src="https://i.postimg.cc/FspjkZJr/MYSQL-Install-Replicate-Backup-Retore.jpgq" width="200" height="150">
 </a>
 
+#### SQL-SERVER
+<a href="https://github.com/Pectrigger/SQL-SERVER/blob/fe321073b19a999c5b66fffe09ad8f3d75bf284c/How%20to%20Fix%20%20access%20denied%20for%20user%20_root_%40_localhost_%20using%20password%20YES.txt">How to fix Access Denial for User</a>
 
-How to Fix Access Denied For user Root : <img src="https://github.com/Pectrigger/MYSQL/blob/main/How%20to%20Fix%20%20access%20denied%20for%20user%20_root_%40_localhost_%20using%20password%20YES.txt
-" width="100" />
+<a href="https://github.com/Pectrigger/SQL-SERVER/blob/fe321073b19a999c5b66fffe09ad8f3d75bf284c/Restore%20Encrypted%20DB%20on%20a%20new%20SQLSERVER.txt">Restore Encrypted DB on a new SQLServer</a>
 
-Create SQL Server Database Encryption: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/CREATE%20SQL%20SERVER%20DATABASE%20%20ENCRYPTION.txt" width="100" />
+<a href="https://github.com/Pectrigger/SQL-SERVER/blob/main/Transfer%20logins%20and%20passwords%20between%20instances%20of%20SQL%20Server.txt">Transfer login and passwords between instances of SQL Server</a>
+
+
+
+
+
 
 Restore Encrypted DB on a new SQLServer: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/Restore%20Encrypted%20DB%20on%20a%20new%20SQLSERVER.txt" width="100" />
 

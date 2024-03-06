@@ -39,13 +39,14 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
 
 <a href="https://github.com/Pectrigger/PSQL/blob/8b06a77f7e33756caa98f0cd08584ae9ab5abf4e/POSTGRESQL%20TDE%20INSTALL%20%26%20ENCRYPTION.pdf">Postgresql TDE</a>
 
-
-
-POSTGRESQL_MIGRATION_&_UPGRADE: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/POSTGRESQL_MIGRATION_%26_UPGRADE%5B1%5D.docx" width="100" />
-
-POSTGRESQL_TDE_INSTALL_&_ENCRYPTION: <img src="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/POSTGRES_CLUSTER_%26_REPLICATION%5B1%5D.docx" width="100" />
-
+### MYSQL
 MYSQL Install, Replication, Back up & Restore:: <img src="https://github.com/Pectrigger/MYSQL/blob/main/ALL%20ABOUT%20MYSQL.docx" width="100" />
+
+
+<a href="https://github.com/Pectrigger/MYSQL/blob/3787b24876c6c2e4def6a43d7bece920001c262b/MYSQL%20Install%2C%20Config%2C%20Replication%2C%20Backup%2C%20Restore%20and%20other.pdf">
+    <img src="https://i.postimg.cc/FspjkZJr/MYSQL-Install-Replicate-Backup-Retore.jpgq" width="200" height="150">
+</a>
+
 
 How to Fix Access Denied For user Root : <img src="https://github.com/Pectrigger/MYSQL/blob/main/How%20to%20Fix%20%20access%20denied%20for%20user%20_root_%40_localhost_%20using%20password%20YES.txt
 " width="100" />

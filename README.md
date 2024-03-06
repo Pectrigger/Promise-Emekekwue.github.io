@@ -24,8 +24,9 @@ I'm a skilled and dedicated Database Administrator with a passion for optimizing
     <img src="https://i.postimg.cc/x8KVpBYz/Postgre-SQL-Install-and-configure.jpg" alt="Installing and Configuring PostgreSQL" width="200" height="150">
 </a>
 
-
-Installing and Configuring Postgres: <img src="https://github.com/Pectrigger/PostgreSQL-Projects/blob/main/INSTALLING%20AND%20CONFIGURING%20POSTGRESQL%20AT%20UBUNTU.docx" width="200" />
+<a href="https://github.com/Pectrigger/PSQL/blob/8b06a77f7e33756caa98f0cd08584ae9ab5abf4e/POSTGRES%20CLUSTER%20%26%20REPLICATION.pdf">
+    <img src="https://i.postimg.cc/cHWfpnG5/Postgre-SQL-Cluster-Replication.jpgL" width="200" height="150">
+</a>
 
 
 POSTGRES CLUSTER & REPLICATION: <img src="https://github.com/Pectrigger/PostgreSQL-Projects/blob/main/POSTGRES%20CLUSTER%20%26%20REPLICATION.docx" width="100" />

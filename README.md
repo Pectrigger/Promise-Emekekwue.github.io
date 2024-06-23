@@ -1,12 +1,19 @@
-![I am a Database Administrator](https://i.postimg.cc/QtbwLQMC/Pec.png) ![](https://ci3.googleusercontent.com/mail-sig/AIorK4xkM-NPGZKxotPunTOsLAtwNWO1yntlkQAVlzwt3LIyjC9-HzsBoCGfzlGxbn-lxFWJ98AIs14)
+## Senior Database Administrator || Database Engineer || Web Developer|| Graphic Designer 
+
+![](https://i.postimg.cc/QtbwLQMC/Pec.png) ![](https://ci3.googleusercontent.com/mail-sig/AIorK4xkM-NPGZKxotPunTOsLAtwNWO1yntlkQAVlzwt3LIyjC9-HzsBoCGfzlGxbn-lxFWJ98AIs14)
 
 ## Emekekwue Chukwunonso Promise
-#### Database Administrato || Web Developer|| Graphic Designer
-Experienced database administrator and software developer with a passion for optimizing data systems and database management such as Oracle, PostgreSQL, MySQL, and SQL Server. I excel in designing, implementing, and maintaining databases to ensure efficient and reliable data storage and retrieval. I'm committed to staying updated with the latest advancements in database technology and continuously seek opportunities to enhance organizational performance through effective data management strategies. With a keen eye for detail and a proactive approach to problem-solving, I strive to deliver high-quality solutions that meet the needs of the organization and drive business success.
+## Profile
+Experienced database administrator and software developer with a robust background in managing and optimizing
+databases such as Oracle, PostgreSQL, MySQL, and SQL Server. Skilled in developing web applications and proficient
+in data engineering for data warehousing using ETL tools such as Pentaho, Visual Studio Code, and Apache Spark.
+Seeking a challenging role in database management or software development that allows me to leverage my skills and
+experience.
 
 
 
 ## Skills and Experience
+* 🗄️ Datawarehousing
 * 🐘 PostgreSQL
 * 🛢️ SQL-Server
 * 🐬 MYSQL
@@ -18,7 +25,13 @@ Experienced database administrator and software developer with a passion for opt
 - 🌱 I’m currently learning Cybersecurity and Ethical Hacking 
 - 📫 How to reach me: +2348030822070
 
-## Examples of my Work
+## Projects
+
+#### Data warehousing
+<a href="https://github.com/Pectrigger/Promise-Emekekwue.github.io/blob/main/FOB%20SMARTOLT%20DATAWAREHOUSE.pdf">
+    <img src="https://i.postimg.cc/G3SvZFKb/FOB-Smart-Olt.png" alt="SmatOlt Database Warehousing" width="200" height="150"> 
+</a>
+
 #### PSQL
 <a href="https://github.com/Pectrigger/PSQL/blob/main/INSTALLING%20AND%20CONFIGURING%20POSTGRESQL%20AT%20UBUNTU.docx.pdf">
     <img src="https://i.postimg.cc/x8KVpBYz/Postgre-SQL-Install-and-configure.jpg" alt="Installing and Configuring PostgreSQL" width="200" height="150">

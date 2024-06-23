@@ -13,7 +13,7 @@ experience.
 
 
 ## Skills and Experience
-* 🗄️ Datawarehousing
+* 🗄️ Data warehousing
 * 🐘 PostgreSQL
 * 🛢️ SQL-Server
 * 🐬 MYSQL
